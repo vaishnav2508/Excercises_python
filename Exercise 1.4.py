@@ -1,0 +1,8 @@
+print(1 == 1)
+print(1 == True)
+print(0 == True)
+print(0 == False)
+print(3 == 1 * 3)
+print((3 == 1) * 3)
+print((3 == 3) * 4 + 3 == 1)
+print(3*5 >= 4*4)
